@@ -1,0 +1,23 @@
+{"level":"info","message":"server ready to start","service":"calculator-microservice"}
+{"level":"info","message":"server ready to start","service":"calculator-microservice"}
+{"level":"info","message":"server ready to start","service":"calculator-microservice"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"adding 50 and 20","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"dividing 50 by 20","service":"arthmetic operations"}
+{"level":"info","message":"dividing 60 by 20","service":"arthmetic operations"}
+{"level":"info","message":"dividing 60 by 0","service":"arthmetic operations"}
+{"level":"info","message":"dividing 0 by 12","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"dividing 50 by 12","service":"arthmetic operations"}
+{"level":"info","message":"adding 50 and 12","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
+{"level":"info","message":"subtracting 10 from 50","service":"arthmetic operations"}
+{"level":"info","message":"multiplying 50 and 10","service":"arthmetic operations"}
