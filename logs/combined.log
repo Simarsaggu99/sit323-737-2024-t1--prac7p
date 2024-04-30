@@ -21,3 +21,5 @@
 {"level":"info","message":"subtracting 12 from 50","service":"arthmetic operations"}
 {"level":"info","message":"subtracting 10 from 50","service":"arthmetic operations"}
 {"level":"info","message":"multiplying 50 and 10","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
+{"level":"info","message":"server ready to start","service":"arthmetic operations"}
